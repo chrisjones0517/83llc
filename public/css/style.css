@@ -1,0 +1,59 @@
+.content {
+    margin: 0;
+}
+
+#sidenav {
+    text-align: center;
+    background-color: #50007d;
+    height: 100vh;
+    width: 100%;
+}
+
+#sidenav > a > img {
+    width: 80%;
+}
+
+.nav-link {
+    color: #ceb888;
+    font-size: 1.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-link:hover {
+    color: #FFF;
+}
+
+.nav-col {
+    height: 100vh;
+    padding: 0;
+    padding-right: 2rem;
+}
+
+.body-col {
+    min-height: 100vh;
+}
+
+#purpose {
+    color: #ceb888;
+    font-size: 1.1rem;
+}
+
+#purpose-div {
+    margin-bottom: 5rem;
+}
+
+.social-media-icon {
+    width: 20px;
+    margin: 0 0.5rem 0.4rem 0.5rem;
+}
+
+.nav-icon-separator {
+    color: #ceb888;
+    font-size: 1.75rem;
+    font-weight: 100;
+}
+
+.active {
+    color: #fff;
+}
+
